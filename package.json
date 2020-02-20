@@ -1,0 +1,24 @@
+{
+  "name": "@projectlint/plugin-operating-system",
+  "version": "0.0.0",
+  "description": "Operating Systems rules for `projectlint`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectlint/plugin-Operating-System.git"
+  },
+  "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectlint/plugin-Operating-System/issues"
+  },
+  "homepage": "https://github.com/projectlint/plugin-Operating-System#readme",
+  "dependencies": {
+    "@projectlint/os-lifecycle": "github:projectlint/OS-lifecycle",
+    "getos": "^3.1.4",
+    "require-directory": "^2.1.1"
+  }
+}
