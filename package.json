@@ -2,7 +2,7 @@
   "name": "@projectlint/plugin-operating-system",
   "version": "0.0.0",
   "description": "Operating Systems rules for `projectlint`",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
