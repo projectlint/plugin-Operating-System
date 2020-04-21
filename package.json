@@ -18,7 +18,7 @@
   "homepage": "https://github.com/projectlint/plugin-Operating-System#readme",
   "dependencies": {
     "@projectlint/os-lifecycle": "github:projectlint/OS-lifecycle",
-    "getos": "piranna/getos#patch-1",
+    "getos": "^3.2.0",
     "require-directory": "^2.1.1"
   }
 }
