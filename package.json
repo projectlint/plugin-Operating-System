@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/projectlint/plugin-Operating-System#readme",
   "dependencies": {
-    "@projectlint/os-lifecycle": "github:projectlint/OS-lifecycle",
+    "@projectlint/os-lifecycle": "^2020.4.26",
     "getos": "^3.2.0",
     "require-directory": "^2.1.1"
   }
